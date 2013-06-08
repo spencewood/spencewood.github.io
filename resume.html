@@ -3,6 +3,9 @@ layout: default
 title: Tyler Collard's Site | Resume
 ---
 
-resume
+<h1>Tyler Collard</h1>
 
-{% include _footer.haml %}
+{% capture resume %}{% include resume.md %}{% endcapture %}
+{{ resume | markdownify }}
+
+{% include _footer.html %}
