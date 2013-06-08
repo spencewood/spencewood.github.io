@@ -1,3 +1,4 @@
 exclude: ['public', 'bin', 'vendor', 'Gemfile', 'Gemfile.lock', 'Procfile', 'Rakefile', 'unicorn.rb', 'config.ru', 'README.md']
 destination: 'public'
 permalink: pretty
+paginate: 5

@@ -1,0 +1,12 @@
+.pagination
+    {% if paginator.previous_page %}
+    %a(href='/page{{ paginator.previous_page }}') Previous
+    {% else %}
+    %span Previous
+    {% endif %}
+    %span Page: {{ paginator.page }} of {{ paginator total_pages }}
+    {% if paginator.next_page %}
+    %a(href='/page{{ paginator.next_page }}') Next
+    {% else %}
+    %span Next
+    {% endif %}
