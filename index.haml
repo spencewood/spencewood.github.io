@@ -5,4 +5,10 @@ title: Tyler Collard's Site
 
 {% include _header.haml %}
 
+%ul
+    {% for post in site.posts do %}
+    %li
+        %a(href='{{ post.url }}') {{ post.title }}
+    {% endfor %}
+
 {% include _footer.haml %}
