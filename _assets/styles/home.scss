@@ -1,0 +1,99 @@
+@import '_assets/styles/base';
+
+ul{
+    ul{
+        list-style: circle;
+    }
+}
+
+.cent{
+    margin: 0 auto;
+    width: 540px;
+}
+
+div.break{
+    padding-top: 10px;
+    border-top: 1px solid $beta;
+}
+
+#box {
+    width: 100%;
+    text-align: center;
+    min-width: 400px;
+    background-color: $beta;
+    padding: 40px 0 20px;
+    border-bottom: 1px solid $light_border;
+    background-image: asset-data-url("sbg.png");
+}
+
+#header {
+    background-repeat: repeat-x;
+    position: relative;
+    text-align: left;
+    padding: 100px 0px 0px;
+    background-image: asset-data-url("starter.png");
+
+    p.intro{
+        font-size: 22px;
+        padding-top: 10px;
+        text-shadow: 2px 2px 2px $base;
+        line-height: 1.3em;
+    }
+}
+
+#name{
+    color: $close_white;
+    font-size: 63px;
+    text-shadow: 2px 2px 2px $base;
+    line-height: 1em;
+    a{
+        border: none;
+    }
+}
+
+#nav{
+    overflow: hidden;
+    padding: 30px 0;
+    li{
+        float: left;
+        margin-right: 30px;
+        font-size: 22px;
+    }
+    a{
+        text-decoration: none;
+        border-bottom: 0;
+    }
+    a.active{
+        border-bottom: 3px solid $light_border;
+    }
+}
+
+#main{
+    overflow: hidden;
+    padding-bottom: 10px;
+
+    h2{
+        padding-bottom: 30px;
+    }
+
+    h3{
+        color: #fff;
+    }
+
+    li{
+        margin-bottom: 20px;
+    }
+}
+
+#side{
+    float: right;
+    margin-left: 40px;
+}
+
+#footer{
+    color: lighten($base, 5%);
+    font-size: 12px;
+    padding: 10px 0;
+    background-color: $beta;
+    border-top: 1px solid $light_border;
+}
