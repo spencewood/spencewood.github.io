@@ -6,15 +6,15 @@ ul{
     }
 }
 
-.cent{
-    margin: 0 auto;
-    width: 540px;
-}
+// .cent{
+//     margin: 0 auto;
+//     width: 540px;
+// }
 
-div.break{
-    padding-top: 10px;
-    border-top: 1px solid $beta;
-}
+// div.break{
+//     padding-top: 10px;
+//     border-top: 1px solid $beta;
+// }
 
 #box {
     width: 100%;
@@ -23,7 +23,7 @@ div.break{
     background-color: $beta;
     padding: 40px 0 20px;
     border-bottom: 1px solid $light_border;
-    background-image: asset-data-url("sbg.png");
+    //background-image: url("images/Bg_Texture___wood_by_nortago.jpg");
 }
 
 #header {
@@ -31,7 +31,7 @@ div.break{
     position: relative;
     text-align: left;
     padding: 100px 0px 0px;
-    background-image: asset-data-url("starter.png");
+    background-image: url("starter.png");
 
     p.intro{
         font-size: 22px;
@@ -96,4 +96,8 @@ div.break{
     padding: 10px 0;
     background-color: $beta;
     border-top: 1px solid $light_border;
+}
+
+.main-content{
+    min-height: 800px;
 }
