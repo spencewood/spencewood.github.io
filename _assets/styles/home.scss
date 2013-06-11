@@ -1,17 +1,17 @@
 @import '_assets/styles/base';
 
 #wrapper{
-    box-shadow: 0px 0px 10px #666;
+    //box-shadow: 0px 0px 10px #666;
 }
 
 .container {
-    width: 960px;
+    width: 690px;
 }
 
 #box {
     width: 100%;
-    background-color: $base;
-    border-bottom: 1px solid $light_border;
+    background-color: $gray_dark;
+    //border-bottom: 1px solid $light_border;
     color: #fff;
     position: relative;
     height: 100px;
@@ -36,15 +36,16 @@
 }
 
 #footer{
-    color: lighten($base, 5%);
+    color: #fff;
+    //color: lighten($base, 5%);
     font-size: 12px;
     padding: 10px;
-    background-color: $beta;
-    border-top: 1px solid $light_border;
+    //background-color: $beta;
+    //border-top: 1px solid $light_border;
 }
 
 .main-content{
-    min-height: 800px;
+    min-height: 400px;
     position: relative;
     background-color: #fff;
     padding: 20px;
@@ -55,6 +56,8 @@
     left: 20px;
     bottom: 10px;
     font-size: 20px;
+    text-transform: uppercase;
+
     ul {
         list-style: none;
         padding: 0;
@@ -63,9 +66,44 @@
             display: inline;
             margin-right: 20px;
 
-            a:hover{
-                color: #fff;
+            a {
+                color: #FFFFF0;
+                text-decoration: none;
+
+                &:hover {
+                    color: #fff;
+                    border-bottom: 4px solid $delta;
+                }
             }
         }
+    }
+}
+
+#name {
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    right: 20px;
+    bottom: 10px;
+    line-height: 23px;
+    font-size: 23px;
+}
+
+
+// POSTS
+.post-date-container{
+    border-bottom: 1px dashed #999;
+    text-align: right;
+    margin-top: -35px;
+    padding-bottom: 10px;
+}
+
+.post-title{
+    color: $gamma;
+}
+
+.post-content{
+    p{
+        margin: 10px 0;
     }
 }

@@ -1,0 +1,19 @@
+---
+layout: master
+---
+
+<div id="wrapper" class="container">
+    {% include _header.html %}
+    <div class="main-content">
+        <h1 class="post-title">
+            <a href="{{ page.url }}">{{ page.title }}</a>
+        </h1>
+        <div class="post-date-container">
+            <span class="post-date">{{ page.date | date: "%d %B %Y" }}</span>
+        </div>
+        <div class="post-content">
+            {{ content }}
+        </div>
+    </div>
+    {% include _footer.html %}
+</div>

@@ -5,11 +5,14 @@ $beta: #756B55;
 $gamma: #42361C;
 $delta: #756032;
 
+$gray_dark: #33342d;
+$gray_light: #46483e;
+
 $light_border: lighten($beta, 10%);
 $close_white: lighten($alpha, 30%);
 
 body{
-    background-color: #efefef;
+    background-color: $gray_light;
     color: #333;
     font-family: Monaco,Consolas,Courier,monospace;
     margin: 0;

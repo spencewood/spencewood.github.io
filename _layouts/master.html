@@ -4,7 +4,10 @@
         <meta content='0eec7e2b6286c636' name='y_key'>
         <meta content='LoGZ2c_XMeLVxN0kG_RHASLZ_bBnkJggV5_7z12aY_k' name='google-site-verification'>
         <title>
-            {{ page.title }}
+            Tyler Spencewood
+            {% if page.title %}
+                 | {{ page.title }}
+            {% endif %}
         </title>
         {% css_asset_tag global %}
         - /_assets/styles/bootstrap.css
