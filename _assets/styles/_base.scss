@@ -11,7 +11,7 @@ $gray_light: #46483e;
 $light_border: lighten($beta, 10%);
 $close_white: lighten($alpha, 30%);
 
-body{
+body {
     background-color: $gray_light;
     color: #333;
     font-family: Monaco,Consolas,Courier,monospace;
@@ -19,37 +19,40 @@ body{
     font-size:15px;
 }
 
-h1{
+h1 {
+    font-size: 28px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+h3 {
     font-size: 23px;
 }
 
-h1 a:hover{
-    text-decoration: none;
-    color: inherit;
+a {
+    color: $delta;
+
+    &:hover {
+        color: $delta;
+        text-decoration: underline;
+    }
 }
 
-h2{
-    font-size: 21px;
-    font-weight: bold;
-}
-
-h3{
-    font-size: 17px;
-    font-weight: bold;
-    padding-bottom: 5px;
-}
-
-a{
-    color: inherit;
-    text-decoration: underline;
-}
-
-p{
+p {
     line-height: 2em;
 }
 
-ul{
-    ul{
+ul {
+    ul {
         list-style: circle;
     }
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4 {
+    font-weight: 500;
 }

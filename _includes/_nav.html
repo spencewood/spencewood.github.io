@@ -1,7 +1,21 @@
-<div id="nav" class="tk-facitweb">
+<div id="nav" class="tk-futura-pt">
     <ul>
+        {% if page.path == 'index.html' %}
+        <li><a class="active" href="/">Home</a></li>
+        {% else %}
         <li><a href="/">Home</a></li>
+        {% endif %}
+        
+        {% if page.path == 'about.html' %}
+        <li><a class="active" href="/about">About</a></li>
+        {% else %}
         <li><a href="/about">About</a></li>
+        {% endif %}
+        
+        {% if page.path == 'resume.html' %}
+        <li><a class="active" href="/resume">Resume</a></li>
+        {% else %}
         <li><a href="/resume">Resume</a></li>
+        {% endif %}
     </ul>
 </div>
