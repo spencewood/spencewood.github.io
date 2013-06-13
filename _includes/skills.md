@@ -1,2 +1,6 @@
- * Skill 1
- * Skill 2
+ * JavaScript
+ * ASP.NET
+ * PHP
+ * Python
+ * Ruby
+ * HTML5
