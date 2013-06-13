@@ -13,7 +13,6 @@
 #box {
     width: 100%;
     background-color: $gray_dark;
-    //border-bottom: 1px solid $light_border;
     color: #fff;
     position: relative;
     height: 100px;
@@ -77,14 +76,16 @@
     font-weight: 300;
 }
 
+.slim-header {
+    height: 20px;
+    background-color: $beta;
+}
+
 // Footer
 #footer {
     color: #fff;
-    //color: lighten($base, 5%);
     font-size: 12px;
     padding: 10px;
-    //background-color: $beta;
-    //border-top: 1px solid $light_border;
 }
 
 // Content
@@ -97,7 +98,6 @@
 
 // Posts
 .post-date-container {
-    border-bottom: 1px dashed #999;
     text-align: right;
     margin-top: -35px;
     padding-bottom: 10px;
@@ -110,6 +110,7 @@
 
 .post-title {
     color: $gamma;
+    font-style: italic;
 }
 
 .post-content {
@@ -139,4 +140,12 @@
             display: inline;
         }
     }
+}
+
+// About
+.about-image {
+    float: right;
+    border: 1px solid #999;
+    padding: 10px;
+    margin-left: 20px;
 }

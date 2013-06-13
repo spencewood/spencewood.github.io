@@ -7,13 +7,15 @@ title: Resume
 {% capture work_history %}{% include work_history.md %}{% endcapture %}
 {% capture other %}{% include other.md %}{% endcapture %}
 
-<h1><a href="/">Tyler Spencewood</a></h1>
+<div id="resume">
+    <h1><a href="/">Tyler Spencewood</a></h1>
 
-<h2>Skills</h2>
-{{ skills | markdownify }}
+    <h2>Skills</h2>
+    {{ skills | markdownify }}
 
-<h2>Work History</h2>
-{{ work_history | markdownify }}
+    <h2>Work History</h2>
+    {{ work_history | markdownify }}
 
-<h2>Other</h2>
-{{ other | markdownify }}
+    <h2>Other</h2>
+    {{ other | markdownify }}
+</div>

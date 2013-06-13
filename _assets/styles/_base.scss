@@ -14,13 +14,13 @@ $close_white: lighten($alpha, 30%);
 body {
     background-color: $gray_light;
     color: #333;
-    font-family: Monaco,Consolas,Courier,monospace;
+    font-family: 'helvetica neue', helvetica, arial, sans-serif;
     margin: 0;
-    font-size:15px;
+    font-size:14px;
 }
 
 h1 {
-    font-size: 28px;
+    font-size: 36px;
 }
 
 h2 {
@@ -41,7 +41,7 @@ a {
 }
 
 p {
-    line-height: 2em;
+    line-height: 1.6;
 }
 
 ul {
@@ -50,9 +50,6 @@ ul {
     }
 }
 
-.main-content h1,
-.main-content h2,
-.main-content h3,
-.main-content h4 {
-    font-weight: 500;
+.clear{
+    overflow: hidden;
 }

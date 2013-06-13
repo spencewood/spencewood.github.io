@@ -1,6 +1,6 @@
 {% for post in paginator.posts %}
     <div class="post-overview">
-        <h3 class="tk-futura-pt"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <h3 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
         <div class="post-content">
         {{ post.content }}
         </div>
