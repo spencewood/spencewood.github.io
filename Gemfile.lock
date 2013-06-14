@@ -46,6 +46,7 @@ GEM
       yajl-ruby (~> 1.1.0)
     rack (1.5.2)
     raindrops (0.11.0)
+    rdiscount (2.1.6)
     safe_yaml (0.7.1)
     sass (3.2.9)
     syntax (1.0.0)
@@ -63,6 +64,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll-asset-pipeline
   rack-jekyll!
+  rdiscount
   sass
   unicorn
   yui-compressor

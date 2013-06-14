@@ -2,3 +2,8 @@ exclude: ['public', 'bin', 'vendor', 'Gemfile', 'Gemfile.lock', 'Procfile', 'Rak
 destination: 'public'
 permalink: pretty
 paginate: 5
+markdown: rdiscount
+rdiscount:
+  extensions:
+    - smart         # typographic substitutions with SmartyPants
+    - autolink      # Convert URL in links, even if they aren't encased in <>
