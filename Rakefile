@@ -8,7 +8,7 @@ task :post do
   posts_dir = "_posts"
 
   def slug(text)
-    text.downcase.gsub(/\s/, "_")
+    text.downcase.gsub(/\s/, "-")
   end
 
   date  = Date.today.to_s
