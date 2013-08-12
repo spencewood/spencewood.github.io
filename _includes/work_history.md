@@ -3,11 +3,11 @@ _Bloomington, MN_
 
 Software Engineer
 
-Mar 2010 - Present
+Mar 2010 - Aug 2013
 
  * Web application development and building sites from scratch
  * Site creation using Content Management Systems for ASP.NET 
- * Leading project development and site architecture
+ * Leading project development and site architecture for large and small sites
  * Maintenance and support for sites written in a variety of languages
 
 ### [Siren -- Internet Music Player](http://www.sirenp.com/)
