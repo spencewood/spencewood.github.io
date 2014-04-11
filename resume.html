@@ -3,13 +3,19 @@ layout: no_header
 title: Resume
 ---
 
+{% capture profiles %}{% include profiles.md %}{% endcapture %}
 {% capture skills %}{% include skills.md %}{% endcapture %}
+{% capture focus %}{% include focus.md %}{% endcapture %}
 {% capture work_history %}{% include work_history.md %}{% endcapture %}
 {% capture other %}{% include other.md %}{% endcapture %}
 
 <div id="resume">
     <h1><a href="/">Tyler Spencewood</a></h1>
+    {{ profiles | markdownify }}
+    {{ focus | markdownify }}
 
+    <hr>
+    
     <h2>Skills</h2>
     {{ skills | markdownify }}
 

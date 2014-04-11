@@ -1,0 +1,1 @@
+My focus is creating products for the cloud using the shiniest tools in the toolbox. I deal with PaaS providers such as Heroku, Azure and Nodejitsu to create lightweight, performant, scalable web apps in a variety of languages and frameworks. I am an advocate for high quality, tested software.

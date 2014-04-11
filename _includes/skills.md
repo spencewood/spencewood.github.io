@@ -1,7 +1,6 @@
- * JavaScript
- * ASP.NET (C#, VB)
- * PHP
- * Python
- * Ruby
+ * JavaScript / Node
+ * C# / ASP.NET
+ * Python / Django
+ * Ruby / Rails
  * HTML5
  * SQL/NoSQL

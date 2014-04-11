@@ -66,7 +66,7 @@ Nov 2001 - Jun 2005
 ### [University of West Florida -- Student Affairs](http://www.uwf.edu)
 _Pensacola, FL_
 
-Computer Technician -- Lead
+**Computer Technician**
 
 Jun 2000 - Sep 2001
 
@@ -77,7 +77,7 @@ Jun 2000 - Sep 2001
 ### Intertec, Inc. 
 _Milton, FL_
 
-Web Developer
+**Web Developer**
 
 Jul 1998 - May 1999
 
