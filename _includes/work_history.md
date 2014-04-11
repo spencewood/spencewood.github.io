@@ -1,30 +1,36 @@
 ### [Sierra Bravo / The Nerdery](http://www.nerdery.com/)
 _Bloomington, MN_
 
-Software Engineer
+**Software Engineer**
+
+primary skills: `C#`, `JavaScript`, `SQL`, `leadership`
 
 Mar 2010 - Aug 2013
 
- * Web application development and building sites from scratch
- * Site creation using Content Management Systems for ASP.NET 
- * Leading project development and site architecture for large and small sites
- * Maintenance and support for sites written in a variety of languages
+ * Web site and web application development with ASP.NET, JavaScript and Rails
+ * Large-scale web site creation with complete CMS solutions (Sitecore, Umbraco, Refinery)
+ * Leading team development and site architecture for large, corporate sites
+ * Maintenance and support for sites written in a variety of languages and frameworks
 
 ### [Siren -- Internet Music Player](http://www.sirenp.com/)
 _Saint Paul, MN_
 
-Designer, Front-end and Back-end Developer
+**Designer, Front-end and Back-end Developer**
+
+primary skills: `JavaScript`, `Python`, `SQL`
 
 Jul 2009 - Mar 2010
 
- * Designed and developed from the ground up
+ * Online MP3 player and music management system designed and developed from the ground up
  * Special attention given to speed and handling of large amounts of data
  * Responsive, cross-browser, themeable interface
 
 ### [Wall Street On Demand](http://www.wallst.com/)
 _Boulder, CO_
 
-Web Developer
+**Web Developer**
+
+primary skills: `JavaScript`, `C#`
 
 Sep 2007 - May 2009
 
@@ -36,7 +42,9 @@ Sep 2007 - May 2009
 ### [Collective of Web Experts (COWE)](http://www.cowe.at/)
 _Graz, Austria_
 
-Web Developer -- Contractor
+**Web Developer (contractor)**
+
+primary skills: `PHP`, `JavaScript`
 
 Dec 2005 - Jun 2007
 
@@ -47,7 +55,7 @@ Dec 2005 - Jun 2007
 ### [Bellevue Computer](http://www.bellevuepc.com)
 _Corvallis, OR_
 
-Computer Technician
+**Computer Technician**
 
 Nov 2001 - Jun 2005
 
