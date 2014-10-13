@@ -1,9 +1,23 @@
-### [Sierra Bravo / The Nerdery](http://www.nerdery.com/)
+### [FastPencil](http://www.fastpencil.com)
+_Minneapolis, MN_
+
+**Web Developer**
+
+primary skills: `Ruby/Rails`, `JavaScript`
+
+Apr 2014 - Present
+
+ * Ruby on Rails development for book publishing software
+ * Leading development effort for modern website transistion and rework
+
+---
+
+### [The Nerdery](http://www.nerdery.com/)
 _Bloomington, MN_
 
 **Software Engineer**
 
-primary skills: `C#`, `JavaScript`, `SQL`, `leadership`
+primary skills: `C#/ASP.NET`, `JavaScript`, `SQL`, `leadership`
 
 Mar 2010 - Aug 2013
 
@@ -12,12 +26,14 @@ Mar 2010 - Aug 2013
  * Leading team development and site architecture for large, corporate sites
  * Maintenance and support for sites written in a variety of languages and frameworks
 
+---
+
 ### [Siren -- Internet Music Player](http://www.sirenp.com/)
 _Saint Paul, MN_
 
 **Designer, Front-end and Back-end Developer**
 
-primary skills: `JavaScript`, `Python`, `SQL`
+primary skills: `JavaScript`, `Python/Django`, `SQL`
 
 Jul 2009 - Mar 2010
 
@@ -25,12 +41,14 @@ Jul 2009 - Mar 2010
  * Special attention given to speed and handling of large amounts of data
  * Responsive, cross-browser, themeable interface
 
+---
+
 ### [Wall Street On Demand](http://www.wallst.com/)
 _Boulder, CO_
 
 **Web Developer**
 
-primary skills: `JavaScript`, `C#`
+primary skills: `ASP`, `JavaScript`, `C#/ASP.NET`
 
 Sep 2007 - May 2009
 
@@ -38,6 +56,8 @@ Sep 2007 - May 2009
  * Strong focus on client-side interaction -- web applications
  * Worked alone and in teams to deliver sites under tight, aggressive deadlines
  * Focused on new technologies; helped with company transition to ASP.NET
+
+---
 
 ### [Collective of Web Experts (COWE)](http://www.cowe.at/)
 _Graz, Austria_
@@ -52,6 +72,8 @@ Dec 2005 - Jun 2007
  * Implemented custom CMS tool for user-friendly site management
  * Created web-managed newsletter tool for sending mass e-mail
 
+---
+
 ### [Bellevue Computer](http://www.bellevuepc.com)
 _Corvallis, OR_
 
@@ -63,6 +85,8 @@ Nov 2001 - Jun 2005
  * Built custom computers for home and business use
  * Phone and on-site support for customers
 
+---
+
 ### [University of West Florida -- Student Affairs](http://www.uwf.edu)
 _Pensacola, FL_
 
@@ -73,6 +97,8 @@ Jun 2000 - Sep 2001
  * Software and hardware maintenance for all division computers
  * Construction of divisional website
  * Computer support and training
+
+---
 
 ### Intertec, Inc. 
 _Milton, FL_

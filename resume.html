@@ -10,18 +10,16 @@ title: Resume
 {% capture other %}{% include other.md %}{% endcapture %}
 
 <div id="resume">
-    <h1><a href="/">Tyler Spencewood</a></h1>
+    <h1><strong><a href="/">Tyler Spencewood</a></strong></h1>
     {{ profiles | markdownify }}
     {{ focus | markdownify }}
-
     <hr>
-    
     <h2>Skills</h2>
     {{ skills | markdownify }}
-
+    <hr>
     <h2>Work History</h2>
     {{ work_history | markdownify }}
-
+    <hr>
     <h2>Other</h2>
     {{ other | markdownify }}
 </div>

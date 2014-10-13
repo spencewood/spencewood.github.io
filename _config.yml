@@ -1,6 +1,8 @@
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'deploy', 'README.md']
 permalink: pretty
 paginate: 5
+sass:
+  style: compressed
 markdown: rdiscount
 rdiscount:
   extensions:

@@ -32,7 +32,7 @@ end
 
 desc "Build"
 task :build do
-  system "jekyll build #{public_dir}"
+  system "jekyll build"
 end
 
 # Stolen from Octopress

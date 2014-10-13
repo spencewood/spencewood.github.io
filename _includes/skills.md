@@ -3,4 +3,5 @@
  * Python / Django
  * Ruby / Rails
  * HTML5
- * SQL/NoSQL
+ * SQL and NoSQL
+ * Git and Subversion
