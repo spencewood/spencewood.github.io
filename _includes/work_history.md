@@ -8,11 +8,11 @@ primary skills: `Ruby/Rails`, `JavaScript`
 Apr 2014 - Present
 
  * Ruby on Rails development for book publishing software
- * Leading development effort for modern website transistion and rework
+ * Leading development effort for modern website transition and rework
 
 ---
 
-### [The Nerdery](http://www.nerdery.com/)
+### [The Nerdery](http://www.nerdery.com)
 _Bloomington, MN_
 
 **Software Engineer**
@@ -21,14 +21,19 @@ primary skills: `C#/ASP.NET`, `JavaScript`, `SQL`, `leadership`
 
 Mar 2010 - Aug 2013
 
- * Web site and web application development with ASP.NET, JavaScript and Rails
- * Large-scale web site creation with complete CMS solutions (Sitecore, Umbraco, Refinery)
- * Leading team development and site architecture for large, corporate sites
- * Maintenance and support for sites written in a variety of languages and frameworks
+ * Web site and web application development with:
+   * ASP.NET (C#, VB), Sitecore, Umbraco
+   * JavaScript (Browser, Node)
+   * Ruby on Rails
+   * PHP (Zend)
+ * Led small and large teams to create high-quality sites with short deadlines
+ * Planned, estimated and created scopes of work for customers and internal sales
+ * Focused on and helped forge path for small, static teams to improve development cycle
+ * Traveled out of state for on-site work, consulting and sales
 
 ---
 
-### [Siren -- Internet Music Player](http://www.sirenp.com/)
+### [Siren -- Internet Music Player](http://www.sirenp.com)
 _Saint Paul, MN_
 
 **Designer, Front-end and Back-end Developer**
@@ -37,13 +42,15 @@ primary skills: `JavaScript`, `Python/Django`, `SQL`
 
 Jul 2009 - Mar 2010
 
- * Online MP3 player and music management system designed and developed from the ground up
+ * Built an online MP3 player and music management system, designed and developed from the ground up
+ * Heavily focused on a rich user experience, with a custom JavaScript framework
  * Special attention given to speed and handling of large amounts of data
  * Responsive, cross-browser, themeable interface
+ * Connected to user's existing music libraries through DAAP
 
 ---
 
-### [Wall Street On Demand](http://www.wallst.com/)
+### [Wall Street On Demand](http://www.wallst.com)
 _Boulder, CO_
 
 **Web Developer**
@@ -55,11 +62,11 @@ Sep 2007 - May 2009
  * Creation of web products for large investment firms
  * Strong focus on client-side interaction -- web applications
  * Worked alone and in teams to deliver sites under tight, aggressive deadlines
- * Focused on new technologies; helped with company transition to ASP.NET
+ * Focused on new technologies; helped with development transition to ASP.NET
 
 ---
 
-### [Collective of Web Experts (COWE)](http://www.cowe.at/)
+### [Collective of Web Experts (COWE)](http://www.cowe.at)
 _Graz, Austria_
 
 **Web Developer (contractor)**
