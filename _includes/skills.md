@@ -1,4 +1,8 @@
- * JavaScript / Node
+ * JavaScript
+   * Node
+   * Express
+   * Angular
+   * Backbone
  * C# / ASP.NET
  * Python / Django
  * Ruby / Rails
