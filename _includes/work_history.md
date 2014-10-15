@@ -8,7 +8,7 @@ primary skills: `Ruby/Rails`, `JavaScript`
 Apr 2014 - Present
 
  * Ruby on Rails development for book publishing software
- * Prototyping and leading development effort for modern website transition using AngularJS and NodeJS.
+ * Prototyping and leading development effort for modern website transition using Angular and Node.
 
 ---
 
