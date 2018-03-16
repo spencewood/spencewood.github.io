@@ -1,11 +1,10 @@
  * JavaScript
-   * Node
-   * Express
+   * Node.js
+   * React / Redux
    * Angular
-   * Backbone
  * C# / ASP.NET
  * Python / Django
  * Ruby / Rails
  * HTML5
  * SQL and NoSQL
- * Git and Subversion
+ * Git

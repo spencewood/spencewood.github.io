@@ -1,1 +1,3 @@
-My focus is creating web applications for the cloud using the shiniest tools in the toolbox. I deal with PaaS providers such as Heroku, Azure and Nodejitsu to create lightweight, performant, scalable web apps in a variety of languages and frameworks. I am an advocate for high quality, tested software. **I dream in JavaScript**.
+My passion is creating web applications for the cloud using the shiniest tools in the toolbox. I'm obsessed with performance and scalability and work on every part of the web stack. I love collaborating with teams to build high quality, well tested software for the web.
+
+**I also dream in JavaScript**

@@ -1,3 +1,22 @@
+### [Leadpages](http://www.leadpages.net)
+_Minneapolis, MN_
+
+**Web Application Engineer/Principal Engineer**
+
+primary skills: `JavaScript (ES2015+)`, `React`, `Node.js`, `leadership`
+
+Nov 2014 - present
+
+* Led front-end engineering team to develop next generation landing page building application
+* Helped set standards and technology stack for current front-end development
+* Helped architect and transform legacy asset creation and delivery systems into highly scalable solutions
+* Solidified standards around React and led development efforts to replace critical parts of front end applications
+* Developed multiple Node.js micro-services to support asset creation and new products
+* Led team dedicated to creating a marketing campaign building application
+* Implemented automated headless testing as a visual testing and end to end testing tool for automated deployment pipelines
+
+---
+
 ### [FastPencil](http://www.fastpencil.com)
 _Minneapolis, MN_
 
@@ -5,7 +24,7 @@ _Minneapolis, MN_
 
 primary skills: `Ruby/Rails`, `JavaScript`
 
-Apr 2014 - Present
+Apr 2014 - Oct 2014
 
  * Ruby on Rails development for book publishing software
  * Prototyping and leading development effort for modern website transition using Angular and Node.
@@ -23,7 +42,7 @@ Mar 2010 - Aug 2013
 
  * Web site and web application development with:
    * ASP.NET (C#, VB), Sitecore, Umbraco
-   * JavaScript (Browser, Node)
+   * JavaScript (Browser, Node.js)
    * Ruby on Rails
    * PHP (Zend)
  * Led small and large teams to create high-quality sites with short deadlines
